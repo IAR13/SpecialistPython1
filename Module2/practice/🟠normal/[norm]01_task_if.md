@@ -15,7 +15,12 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+n=int(input())
+
+if n>99 and n<1000:
+    print("да")
+else:
+    print("нет")
 ```
 
 ---
