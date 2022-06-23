@@ -36,6 +36,10 @@ n = 12
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+cost = 9.99
+n = 12
+while 0 < n < 13:
+    print(n*cost)
+    n-=1
 ```
 
